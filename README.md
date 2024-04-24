@@ -14,6 +14,6 @@ Este é uma implementação simples do clássico jogo Pong usando JavaScript e a
 
 
 ## Tecnologias Utilizadas
-p5.js: Uma biblioteca JavaScript para codificação criativa, fornecendo um conjunto completo de funcionalidades de desenho e eventos de interação.
-HTML/CSS: Usado para estruturar a página da web e estilizar elementos.
-JavaScript: Linguagem de programação usada para lógica de jogo e interação.
+* p5.js: Uma biblioteca JavaScript para codificação criativa, fornecendo um conjunto completo de funcionalidades de desenho e eventos de interação.
+* HTML/CSS: Usado para estruturar a página da web e estilizar elementos.
+* JavaScript: Linguagem de programação usada para lógica de jogo e interação.
