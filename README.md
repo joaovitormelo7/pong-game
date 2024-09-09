@@ -18,4 +18,4 @@ Este é uma implementação simples do clássico jogo Pong usando JavaScript e a
 * HTML/CSS: Usado para estruturar a página da web e estilizar elementos.
 * JavaScript: Linguagem de programação usada para lógica de jogo e interação.
 
-![Gif Pong](https://imgur.com/a/1m02c2d.gif)
+![Gif Pong] (https://imgur.com/a/1m02c2d.gif)
